@@ -27,9 +27,10 @@ The first step will be text data pre-processing. Started off by extracting the d
 And lastly, the cleansed text data will be transformed into bag of words or TF-IDF matrix for classification modelling later.  <br>
 For step 2, it will be text data understanding, first by extracting the keywords from each document using TF-IDF matrix, the keywords extracted can be then used for analysis using Association Rule Mining.  <br>
 
-The goal is to visualize and understand the associations between the keywords by category or by overall documents.   <br>
-
+The goal is to visualize and understand the associations between the keywords by category or by overall documents.  
 <br>
+<br>
+
 ### Transform Data using bag-of-words matrix <br>
 ![image](https://user-images.githubusercontent.com/73086331/144260981-bc443d49-b8f6-41aa-be2f-8dcae9feb2bc.png)
 <br>
